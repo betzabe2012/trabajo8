@@ -1,0 +1,96 @@
+
+.row{
+	list-style: none;
+	text-align: left;
+
+ }
+.jumbotron{
+	background-image: url("rueda.jpeg");	
+	color: white;	
+	width: 100%;
+	height: 400px;
+	text-align: center;
+	
+}img-1{
+	width: 300px;
+	height: 150%;
+	float: left;
+	padding: 
+
+
+}li{ list-style: none;
+	padding: 20px;
+	float: right;
+
+
+}
+	p{ text-align: center;
+	font-size: 15px;
+
+}
+	h1{ text-align: center;
+	font-size: 15px;
+ }
+ 	h2{
+ 	text-align: center;
+ 	font-size: 15px;
+ 	margin-left: 16%;
+ 	margin-right: 16%;
+
+ }
+ 	h3{
+ 	text-align: center;
+ 	font-size: 22px;
+
+ }.img-responsive{
+ 		text-align: center;
+ 		width: 50%;
+ 		height: 50%;
+ 		float: right;
+
+ 	}
+ 	.imagen2{
+ 		position: center;
+ 		text-align: center;
+ 		width: 20%;
+ 		height: 20%;
+ 		margin-left: 40%;
+ 		margin-top: 5%;
+ 	}
+ 	.display-4{
+ 		text-align: center;
+ 		font-size: 25px;
+ 	}
+ 	.box{
+ 		background-color:#ede8e8;
+ 		width:100%;
+ 		height:200%;
+ 		margin-top:0%;
+ 	}
+ 	.navbar{
+ 		float: right;
+ 		margin-right:40%;
+ 	}
+ 	h4{
+ 		text-align: center;
+ 		margin-top: 5%;
+ 	}
+ 	h5{
+ 		text-align: center;
+
+ 	}
+ 	h6{
+	 	text-align: center;
+	 	font-size: 15px;
+	 	margin-left: 16%;
+	 	margin-right: 16%;
+ 	}
+ 	
+ 	.boton-azul2{
+ 			margin-left:47%;
+		    color: #ffffff;   
+		    background-color:#78c4e8;
+		    border-radius: 3px;
+		    border: 1px solid #0016b0;
+ 	}
+ 	
